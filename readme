@@ -1,8 +1,6 @@
 # Project Title
 
-Small ecommerce website
-
-# Small Ecommerce Website
+E-commerce website
 
 This project is a small ecommerce website built using modern web technologies. It aims to provide a user-friendly interface for browsing products, managing a shopping cart, and processing orders.
 The website is designed to be responsive and accessible, ensuring a seamless experience across different devices.
@@ -18,4 +16,4 @@ The website is designed to be responsive and accessible, ensuring a seamless exp
 
 ## Technologies Used
 
-Wordpress, WooCommerce, HTML, CSS, JavaScript, PHP
+Wordpress, WooCommerce, elementor,profile-builder, and PHP
